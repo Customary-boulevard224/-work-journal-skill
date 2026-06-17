@@ -6,7 +6,7 @@
 
 Generate structured developer logs, client reports, and session resumption briefs — with one command, in 30 seconds.
 
-[![GitHub stars](https://img.shields.io/github/stars/Tk1777-sy/-work-journal-skill?style=for-the-badge&logo=github&color=FFD700)](https://github.com/Tk1777-sy/-work-journal-skill/stargazers)
+[![GitHub stars](https://img.shields.io/badge/⭐_Stars-0-FFD700?style=for-the-badge&logo=github)](https://github.com/Tk1777-sy/-work-journal-skill/stargazers)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
 [![4 Modes](https://img.shields.io/badge/4%20Output%20Modes-10B981?style=for-the-badge)](#modes)
 [![7 Journal Sections](https://img.shields.io/badge/7%20Journal%20Sections-6366F1?style=for-the-badge)](#full-developer-journal)
